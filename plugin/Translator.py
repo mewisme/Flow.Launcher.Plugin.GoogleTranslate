@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Google Translate in Flow Launcher.
 
