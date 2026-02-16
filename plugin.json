@@ -1,0 +1,13 @@
+{
+  "$schema": "https://www.flowlauncher.com/schemas/plugin.schema.json",
+  "ID": "ac745c02-5fad-4e25-8480-d20dbb06dca0",
+  "ActionKeyword": "tr",
+  "Name": "Google Translate",
+  "Description": "Simple Plugin to use Google Translate in FlowLauncher",
+  "Author": "Mew",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/mewisme/Flow.Launcher.Plugin.GoogleTranslate",
+  "IcoPath": "images\\gt.png",
+  "ExecuteFileName": "main.py"
+}
